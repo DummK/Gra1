@@ -12,3 +12,4 @@ D:\all\Myapps\Csharp\start\start\obj\Release\net8.0\refint\start.dll
 D:\all\Myapps\Csharp\start\start\obj\Release\net8.0\start.pdb
 D:\all\Myapps\Csharp\start\start\obj\Release\net8.0\start.genruntimeconfig.cache
 D:\all\Myapps\Csharp\start\start\obj\Release\net8.0\ref\start.dll
+D:\all\Myapps\Csharp\start\start\obj\Release\net8.0\start.sourcelink.json
