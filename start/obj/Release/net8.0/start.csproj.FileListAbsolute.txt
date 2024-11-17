@@ -1,0 +1,14 @@
+D:\all\Myapps\Csharp\start\start\bin\Release\net8.0\start.exe
+D:\all\Myapps\Csharp\start\start\bin\Release\net8.0\start.deps.json
+D:\all\Myapps\Csharp\start\start\bin\Release\net8.0\start.runtimeconfig.json
+D:\all\Myapps\Csharp\start\start\bin\Release\net8.0\start.dll
+D:\all\Myapps\Csharp\start\start\bin\Release\net8.0\start.pdb
+D:\all\Myapps\Csharp\start\start\obj\Release\net8.0\start.GeneratedMSBuildEditorConfig.editorconfig
+D:\all\Myapps\Csharp\start\start\obj\Release\net8.0\start.AssemblyInfoInputs.cache
+D:\all\Myapps\Csharp\start\start\obj\Release\net8.0\start.AssemblyInfo.cs
+D:\all\Myapps\Csharp\start\start\obj\Release\net8.0\start.csproj.CoreCompileInputs.cache
+D:\all\Myapps\Csharp\start\start\obj\Release\net8.0\start.dll
+D:\all\Myapps\Csharp\start\start\obj\Release\net8.0\refint\start.dll
+D:\all\Myapps\Csharp\start\start\obj\Release\net8.0\start.pdb
+D:\all\Myapps\Csharp\start\start\obj\Release\net8.0\start.genruntimeconfig.cache
+D:\all\Myapps\Csharp\start\start\obj\Release\net8.0\ref\start.dll
